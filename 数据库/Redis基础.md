@@ -1,6 +1,4 @@
-## ***Redis* 基础**
-
-### 简介：
+### Redis简介
 
 Redis（**Re**mote **Di**ctionary **S**erver )，即远程字典服务，是一个开源的使用ANSI C语言编写、支持网络、可基于内存亦可持久化的日志型、Key-Value数据库。由于是内存数据库，读写非常高速，可达10w/s的评率，所以一般应用于数据变化快、实时通讯、缓存等。但内存数据库通常要考虑机器的内存大小。Redis 是完全开源免费的，遵守 BSD 协议，是一个灵活的高性能 key-value 数据结构存储，可以用来作为数据库、缓存和消息队列。相比于其他的 key-value 缓存产品有以下三个特点：
 
@@ -8,7 +6,7 @@ Redis（**Re**mote **Di**ctionary **S**erver )，即远程字典服务，是一�
 - Redis 不仅支持简单的 key-value 类型的数据，同时还提供 list，set，zset，hash 等数据结构的存储。
 - Redis 支持主从复制，即 master-slave 模式的数据备份。
 
-###  安装：
+### 安装
 
 本项目是基于Ubuntu环境进行开发，因此接下来都以Ubuntu的环境为基础，对于其他开发环境，大家可以参考相关的[资料](https://www.redis.com.cn/redis-installation.html)进行学习。
 

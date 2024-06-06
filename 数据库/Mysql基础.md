@@ -1,6 +1,5 @@
-本文属于新闻推荐实战—数据层—构建物料池之MySQL。MySQL数据库在该项目中会用来存储结构化的数据（用户、新闻特征），作为算法工程师需要了解常用的MySQL语法（比如增删改查，排序等），因为在实际的工作经常会用来统计相关数据或者抽取相关特征。本着这个目的，本文对MySQL常见的语法及Python操作MySQL进行了总结，方便大家快速了解。
 
-# 前言 MySQL简介
+# MySQL简介
 
     MySQL是一个关系型数据库管理系统，由瑞典MySQL AB 公司开发，属于 Oracle 旗下产品。MySQL 是最流行的关系型数据库管理系统之一，在 WEB 应用方面，MySQL是最好的 RDBMS (Relational Database Management System，关系数据库管理系统) 应用软件之一。
     

@@ -52,6 +52,7 @@ AI Studio平台默认安装了Paddle和PaddleNLP，并定期更新版本。 如�
 [安装文档](https://www.paddlepaddle.org.cn/install/quick?docurl=/documentation/docs/zh/install/pip/linux-pip.html)
 
 * 最新版本 PaddleNLP 
+
 使用如下命令确保安装最新版PaddleNLP：
 ```
 !pip install --upgrade paddlenlp

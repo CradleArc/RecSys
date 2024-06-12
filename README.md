@@ -1,6 +1,8 @@
+## **持续更新！！！**
+
 ## 一、推荐系统
 
-#### 第三届“马栏山杯”国际音视频算法大赛 (结构化数据) https://challenge.ai.mgtv.com/#/home
+#### 第三届“马栏山杯”国际音视频算法大赛-2022年 (结构化数据) https://challenge.ai.mgtv.com/#/home
 
 - 项目所在路径：RecSys/NextVideo
 - 简要介绍：17万用户 + 14万条视频库 + 近600万条观影记录。
@@ -19,9 +21,9 @@
 
 ## 三、数据库介绍
 
-- 项目所在路径：RecSys/数据库介绍
-- 简要介绍：
+- 项目所在路径：RecSys/DataBase
+- 简要介绍：Redis + Mysql + MongoDB 的操作说明
 
-**待更新！！！**
+
 
 

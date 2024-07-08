@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jun 10 18:09:56 2022
-
-@author: tongj
-"""
-
 import datetime
 import pandas as pd
 import lightgbm as lgb

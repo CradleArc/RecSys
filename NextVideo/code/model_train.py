@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jun 10 18:06:51 2022
-
-@author: tongj
-"""
-
 import datetime
 import lightgbm as lgb
 from feature_engineer import make_feature

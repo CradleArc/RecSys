@@ -1,12 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jun 10 22:10:41 2022
-
-@author: tongj
-"""
 
 import pandas as pd
-
 import warnings
 warnings.filterwarnings("ignore")
 
